@@ -20,7 +20,6 @@ Link Download Base de dados: https://brasil.io/dataset/covid19/caso_full/
 !Baixar e colocar o arquivo "caso_full" na mesma pasta que o arquivo do programa se encontra!
 
 
-
 ## 🛠️ Tecnologias utilizadas:
 AS Tecnologias abaixo foram utilizadas na construção do projeto.
 - [Figma](http://www.figma.com)
@@ -34,6 +33,8 @@ AS Tecnologias abaixo foram utilizadas na construção do projeto.
 - [Pandas](https://pandas.pydata.org/docs/)
 - [matplotlib.pyplot](https://matplotlib.org/)
 - [Unidecode](https://pypi.org/project/Unidecode/)
+
+Link video apresentacao: https://www.youtube.com/watch?v=0aUKWEjipQQ
 
 - Tutorial de instalação:
  Ao entrar na IDE ou no prompt do Python, digitar pip install matplotlib, pip install unidecode e pip install pandas
